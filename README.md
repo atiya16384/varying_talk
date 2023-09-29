@@ -17,3 +17,4 @@ Nietzche said, "The surest way to corrupt a youth is to instruct him to hold in 
 
 
 ## Data Usage
+Sentry.io is used as part of the testing phase. 
